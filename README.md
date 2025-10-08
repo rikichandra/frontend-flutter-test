@@ -80,7 +80,7 @@ Semua operasi dilakukan **hanya pada local storage**:
 
 ```bash
 # Clone repository
-git clone [repository-url]
+git clone https://github.com/rikichandra/frontend-flutter-test.git
 
 # Install dependencies
 flutter pub get
