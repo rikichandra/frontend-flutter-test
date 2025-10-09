@@ -12,7 +12,7 @@ Aplikasi manajemen karyawan yang dibangun menggunakan Flutter dengan implementas
 
 | Home | Add | Edit |
 |------|-----|------|
-| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![Edit](screenshots/edit.png) |
+| ![Home](screenshots/home.jpg) | ![Add](screenshots/add.jpg) | ![Edit](screenshots/edit.jpg) |
 
 
 ## ✨ Fitur Utama
