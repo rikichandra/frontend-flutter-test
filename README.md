@@ -8,6 +8,13 @@
 
 Aplikasi manajemen karyawan yang dibangun menggunakan Flutter dengan implementasi Clean Architecture. Aplikasi ini menggabungkan data dari API eksternal dengan penyimpanan lokal, memungkinkan operasi CRUD lengkap secara offline dengan kemampuan sinkronisasi manual.
 
+## 📸 Screenshot Aplikasi
+
+| Home | Add | Edit |
+|------|-----|------|
+| ![Home](screenshots/home.png) | ![Add](screenshots/add.png) | ![Edit](screenshots/edit.png) |
+
+
 ## ✨ Fitur Utama
 
 - **Clean Architecture** - Pemisahan layer yang jelas (Domain, Data, Presentation)
